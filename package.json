@@ -1,10 +1,10 @@
 {
   "name": "youtube-search",
-  "displayName": "youtube-search",
+  "displayName": "YouTube Search",
   "description": "This extension allows you to search for YouTube videos from VS Code",
   "publisher": "geekanant",
   "version": "0.0.1",
-  "icon": "icon.png",
+  "icon": "iconMarketplace.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/geekanant/YouTube-Search-VS-Code-Extension"
