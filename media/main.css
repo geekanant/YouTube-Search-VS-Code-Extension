@@ -1,0 +1,19 @@
+#youtube-search {
+  display: block;
+  background-color: #0e639c;
+  color: #e8f5f8;
+  height: 25px;
+  width: 100%;
+  cursor: pointer;
+  border: none;
+  margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#input-text {
+  width: 97%;
+}
